@@ -1,0 +1,6 @@
+{
+  "name": "A Birthday Surprise for Deepak Karthikeyan",
+  "description": "A deeply personal, cute, and interactive birthday surprise scrapbook website for Deepak Karthikeyan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
